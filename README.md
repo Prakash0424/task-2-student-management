@@ -1,6 +1,3 @@
-📅 Submission Window
-This task was completed between 10:00 AM to 10:00 PM as per the guidelines.
-
 📌 Task Objective
 To build a console-based Student Management System in Java that allows the user to:
 
